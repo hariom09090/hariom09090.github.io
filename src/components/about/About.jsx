@@ -23,7 +23,7 @@ const About = () => {
           <p>
             Pre-final Year at KIIT pursuing B. Tech in Information Technology. I
             am building up my career in competitive programming. And also in the
-            web development field. And Having knowledge of machine learning and
+            web development field. Having knowledge of machine learning and
             cloud too.
           </p>
           {/* <a href='#contact' className='btn btn-primary'>
